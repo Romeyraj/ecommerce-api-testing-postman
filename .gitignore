@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+
+# Operating system files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment and secret files
+.env
+*.secret
+
+# Temporary files
+*.tmp
+
+# Postman local files
+.postman/
